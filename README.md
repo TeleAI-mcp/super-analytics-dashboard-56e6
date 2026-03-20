@@ -1,2 +1,3 @@
-# super-analytics-dashboard-56e6
-SaaS analytics dashboard repository
+# Super Analytics Dashboard 56E6
+
+Automated issue comment bot repository.
